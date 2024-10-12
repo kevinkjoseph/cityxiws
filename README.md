@@ -1,7 +1,7 @@
 # Water Supply Inequalities in a Large Indian City
 This repo is associated with the thesis titled "Water Supply Inequalities in a Large Indian City". A thesis submitted in conformity with the requirements for the degree of Master of Applied Science in Civil and Mineral Engineering from the University of Toronto in September 2024.
 
-# Abstract 
+## Abstract 
 
 Approximately 1 billion people rely on Intermittent Water Supply systems that supply water for
 less than 24 hours/day. Recent commitments such as United Nations Sustainable Development
@@ -17,4 +17,4 @@ continuity improved modestly by 1.2% per month but improved fastest for the wors
 
 ## Source Files
 
-The name of the city and any identifying information is removed to preserve anonymity. The source files are unavailable for public distribution and not uploaded due to NDA. 
+The name of the city and any identifying information is removed to preserve anonymity. We refer to the city as City X throughout the code and in the thesis. The source files are unavailable for public distribution and not uploaded due to NDA. 
